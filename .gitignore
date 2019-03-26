@@ -1,2 +1,6 @@
 *.log
 *.orig
+logs
+.DS_Store
+*.pid
+*.seed
